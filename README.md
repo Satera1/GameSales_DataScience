@@ -1,4 +1,4 @@
-"# GameSales_DataScience" 
+# Game Sales Data Science
 ![Vendas por Plataforma (Other_Sales)](https://github.com/Satera1/GameSales_DataScience/assets/87941085/b8da882e-155b-4a5d-8331-d567fb56a162)
 ![Vendas por Plataforma (NA_Sales)](https://github.com/Satera1/GameSales_DataScience/assets/87941085/49795ee1-d90c-4b9c-9f7a-3b366a1b38f9)
 ![Vendas por Plataforma (JP_Sales)](https://github.com/Satera1/GameSales_DataScience/assets/87941085/c557aa16-4db2-4f0b-864f-22731f8f3a6a)
